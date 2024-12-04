@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221&line_height=27) 
-<p align = "center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221"&line_height=23 /></p>
+<p align = "right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221"&line_height=23 /></p>
 
 [![Check out 2427272221's profile on stardev.io](https://stardev.io/developers/2427272221/badge/languages/global.svg)](https://stardev.io/developers/2427272221)
 
