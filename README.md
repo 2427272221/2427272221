@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- real time -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
-![LeetCode Stats](https://leetcard.jacoblin.cool/xenodochial-shockleyvnt?theme=radical&font=Just%20Me%20Again%20Down%20Here&ext=activity&site=cn)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/xenodochial-shockleyvnt?theme=radical&font=Just%20Me%20Again%20Down%20Here&ext=activity&site=cn)<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2427272221)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2427272221)
-![2427272221 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=2427272221)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2427272221)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2427272221)<br>
+![2427272221 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=2427272221)<br>
