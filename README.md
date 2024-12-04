@@ -53,8 +53,7 @@ Here are some ideas to get you started:
 
   <!-- for beauty 留个空行好看点 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221)
-![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)<br>
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221)![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)<br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- real time -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xenodochial-shockleyvnt?theme=radical&font=Just%20Me%20Again%20Down%20Here&ext=activity&site=cn)<br>
