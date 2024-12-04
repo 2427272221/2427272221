@@ -53,14 +53,14 @@ Here are some ideas to get you started:
   <!-- for beauty 留个空行好看点 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221" /></p>
+![2427272221 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=2427272221)<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2427272221)<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture><br>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2427272221)
-![2427272221 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=2427272221)<br>
 
