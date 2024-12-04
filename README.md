@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+你好！;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/你好，欢迎来到房康康的主页！;道阻且长，行则将至！)
 <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xenodochial-shockleyvnt?theme=radical&font=Just%20Me%20Again%20Down%20Here&ext=activity&site=cn)<br>
