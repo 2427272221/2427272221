@@ -14,9 +14,6 @@
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)<br>
 
 
-
-node updater.js ${{ github.repository_owner }} <atom>
-
 <!--
 **2427272221/2427272221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,6 +34,8 @@ Here are some ideas to get you started:
 <h3 align="center">Every minute counts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2427272221&label=Profile%20views&color=0e75b6&style=flat" alt="2427272221" /> </p>
+
+node updater.js ${{ github.repository_owner }} <atom>
 
 - 📫 How to reach me **fangkangkang680@gmail.com**
 
