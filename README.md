@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)<br>
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221)<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)<br>
