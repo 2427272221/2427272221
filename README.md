@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31msj2427ver22vqyvtfgeu23xoy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31msj2427ver22vqyvtfgeu23xoy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=b14e4e)]]
-[![Generic badge](https://img.shields.io/badge/<PUB>-<KK>-<COLOR>.svg)](https://shields.io/)
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
