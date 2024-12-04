@@ -59,7 +59,10 @@ Here are some ideas to get you started:
 ![2427272221 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=2427272221)<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2427272221)</p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=2427272221&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=2427272221&theme=radical">
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)
 
