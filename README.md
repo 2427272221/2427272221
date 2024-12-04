@@ -56,15 +56,16 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![2427272221 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=2427272221)<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221" /></p>
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=2427272221&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=2427272221&theme=radical">
 </p>
 
-
-
+<p align = "center">
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221&line_height=27)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221"&line_height=27 /></p>
 
 [![Check out 2427272221's profile on stardev.io](https://stardev.io/developers/2427272221/badge/languages/global.svg)](https://stardev.io/developers/2427272221)
 
