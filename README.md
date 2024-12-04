@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 [![Check out 2427272221's profile on stardev.io](https://stardev.io/developers/2427272221/badge/languages/global.svg)](https://stardev.io/developers/2427272221)
 
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31msj2427ver22vqyvtfgeu23xoy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31msj2427ver22vqyvtfgeu23xoy&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)]]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
