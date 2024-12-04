@@ -29,4 +29,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture><br>
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
