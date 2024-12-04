@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 <h3 align="center">Every minute counts.</h3>
