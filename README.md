@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="240" height="240"  alt=""/> 
 
 <p>
-  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300"  alt=""/>
+  <img align="center" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300"  alt=""/>
   <img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221"&line_height=23 />
 </p>
 
