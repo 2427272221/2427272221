@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221)
 
 
-
+[![Check out 2427272221's profile on stardev.io](https://stardev.io/developers/2427272221/badge/languages/global.svg)](https://stardev.io/developers/2427272221)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
