@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 
 
   <!-- for beauty 留个空行好看点 -->
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221)<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221)
 ![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)<br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2427272221&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- real time -->
