@@ -7,6 +7,12 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
+<p align="center" >
+  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
+    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
@@ -35,7 +41,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2427272221&label=Profile%20views&color=0e75b6&style=flat" alt="2427272221" /> </p>
 
-node updater.js ${{ github.repository_owner }} <atom>
 
 - 📫 How to reach me **fangkangkang680@gmail.com**
 
