@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey 👋, This is pub.kk
-[![Gmail Badge](https://img.shields.io/badge/-fangkangkang680@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fangkangkang680@gmail.com)](mailto:fangkangkang680@gmail.com) [![Github Badge](https://img.shields.io/badge/-pub.kk-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pub.kk/)](https://www.github.com/pub.kk/) <p align='left'>道阻且长，行则将至！</p><p align='left'> You can view my resume <a href='https://resume.todev.cc/ ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=pub.kk alt=pub.kk /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=pub.kk&show_icons=true&include_all_commits=true)](https://github.com/pub.kk/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pub.kk&layout=compact)](https://github.com/pub.kk/github-readme-stats)
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=2427272221)
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=2427272221)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2427272221)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2427272221)
