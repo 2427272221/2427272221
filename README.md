@@ -63,10 +63,9 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=2427272221&theme=radical">
 </p>
 
-<p align = "center">
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221&line_height=27)
-  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221"&line_height=27 /></p>
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221&line_height=27) 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221"&line_height=27 />
 
 [![Check out 2427272221's profile on stardev.io](https://stardev.io/developers/2427272221/badge/languages/global.svg)](https://stardev.io/developers/2427272221)
 
