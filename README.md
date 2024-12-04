@@ -65,11 +65,8 @@ Here are some ideas to get you started:
 
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221&line_height=27) 
-
-<p>  
   <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120"  alt=""/>
   <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120"  alt=""/> 
-</p>   
 
 <p><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=2427272221&" alt="2427272221"&line_height=23 /></p>
 
