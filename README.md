@@ -57,6 +57,12 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2427272221)<br>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=2427272221)
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=2427272221)
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
